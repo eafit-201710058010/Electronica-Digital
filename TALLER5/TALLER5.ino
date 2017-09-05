@@ -1,4 +1,7 @@
-
+//Name: Taller 5
+//Authors: Kevin Gutierrez Gomez, Gonzalo García Hernandez, Duvan Cardona Gutiérrez
+//Date: 04/09/2017
+//Description: Sistema de monitoreo de temperatura por medio de displays 7 segmentos y LED RGB.
 
 //Etiquetado de pines de entrada y salida
 #define LV 3  //LED verde del led RGB conectado al pin PWM 3
