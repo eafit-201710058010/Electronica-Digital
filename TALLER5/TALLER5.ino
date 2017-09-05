@@ -1,5 +1,5 @@
 //Name: Taller 5
-//Authors: Kevin Gutierrez Gomez, Gonzalo García Hernandez, Duvan Cardona Gutiérrez
+//Authors: Kevin Gutierrez Gomez, Gonzalo García Hernandez, Duvan Cardona Gutiérrez y Juan Pablo Castaño Duque
 //Date: 04/09/2017
 //Description: Sistema de monitoreo de temperatura por medio de displays 7 segmentos y LED RGB.
 
